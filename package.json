@@ -1,0 +1,46 @@
+{
+  "name": "vue-webpack-component",
+  "version": "1.0.0",
+  "description": "this is a project for vue-component with webpack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangyanyan/vue-webpack-component.git"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "webpack"
+  ],
+  "author": "huzf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangyanyan/vue-webpack-component/issues"
+  },
+  "homepage": "https://github.com/zhuangyanyan/vue-webpack-component#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-runtime": "^6.18.0",
+    "css-loader": "^0.26.0",
+    "file-loader": "^0.9.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "vue": "^2.1.0",
+    "vue-hot-reload-api": "^2.0.6",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^10.0.0",
+    "vue-router": "^2.0.3",
+    "vue-style-loader": "^1.0.0",
+    "vue-template-compiler": "^2.1.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-merge": "^0.17.0"
+  }
+}
